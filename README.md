@@ -1,6 +1,6 @@
 # GS1 L3 Serialization & Aggregation Project
 
-Bu proje, ilaç endüstrisindeki **Takip ve İzleme (Track & Trace)** süreçlerini simüle etmek amacıyla geliştirilmiş bir **L3 (Hat Yönetimi)** yazılımıdır.
+Bu proje, **Takip ve İzleme (Track & Trace)** süreçlerini simüle etmek amacıyla geliştirilmiş bir **L3 (Hat Yönetimi)** yazılımıdır.
 
 ## 🚀 Proje Özellikleri
 
